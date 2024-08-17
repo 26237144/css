@@ -1,5 +1,18 @@
 /* primer selector */
 h1 {
-    color: blue;
+    color:brown;
 
+} 
+article h2 {
+    color: yellow;
+
+
+}
+/* article p { 
+ 
+    color:tomato;
+
+} */
+#texto2{
+    color:  blueviolet;
 }
